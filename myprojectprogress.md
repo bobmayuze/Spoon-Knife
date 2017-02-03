@@ -1,0 +1,1 @@
+For my project, I've finished the part of setting basic up with phantomjs with node sever. Express is successfuly setup.
